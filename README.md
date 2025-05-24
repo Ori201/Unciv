@@ -1,5 +1,7 @@
 # Unciv - Civ V remake for Android & Desktop
 
+https://github.com/Ori201/Unciv/blob/master/android%2Fassets%2Fjsons%2Ftranslations%2FHebrew.properties
+
 ![](/extraImages/GithubPreviewImage.jpg)
 
 [![Google Play](https://img.shields.io/static/v1?label=Google&message=Play&logo=google-play)](https://play.google.com/store/apps/details?id=com.unciv.app)
